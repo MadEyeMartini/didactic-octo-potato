@@ -1,0 +1,1 @@
+{"id":"26c3bcfe-4b22-4118-bf80-b1cd13c4a311","space":21845,"runtime":"python3.9","name":"micro_play","path":"yz0mo8","project":"a0dagpo3","account":"144798365827","region":"eu-central-1","deps":["fastapi","databases","sqlalchemy","asyncpg","psycopg2-binary"],"envs":null,"public":true,"log_level":"debug","cron":""}
